@@ -1,0 +1,15 @@
+[Added Associations]
+image/png=imv-6.desktop;imv-5.desktop;imv-4.desktop;imv-3.desktop;imv-2.desktop;
+
+[Default Applications]
+image/bmp=imv.desktop
+image/gif=imv.desktop
+image/jpeg=imv.desktop
+image/png=imv-6.desktop;
+image/tiff=imv.desktop
+image/webp=imv.desktop
+text/html=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
