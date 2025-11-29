@@ -10,6 +10,7 @@
   "modules-left": ["hyprland/workspaces", "hyprland/window"],
   "modules-center": ["mpris"],
   "modules-right": [
+    "custom/gpu",
     "cpu",
     "memory",
     "pulseaudio",
@@ -26,6 +27,11 @@
     "on-click-right": "spotifatius toggle-liked",
     "on-click-middle": "playerctl -p spotify next",
     "exec": "spotifatius monitor",
+  },
+  "custom/gpu": {
+  	"format": "󰢮  {}",
+  	"interval": 1,
+  	"exec": "~/.config/waybar/scripts/gpu.sh"
   },
   "mpris": {
     "player": "spotify",

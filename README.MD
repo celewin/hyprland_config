@@ -8,7 +8,7 @@ yadm checkout --force
 
 Depencies:
 ```bash
-paru -S rofi swww nwg-look google-chrome grim slurp thunar resources spotify steam discord hyprsunset breeze visual-studio-code-bin ttf-firacode-nerd wlogout
+paru -S rofi swww nwg-look google-chrome grim slurp thunar resources spotify steam discord hyprsunset breeze visual-studio-code-bin ttf-firacode-nerd wlogout telegram-desktop
 ```
 
 - rofi = dmenu

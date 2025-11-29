@@ -47,6 +47,7 @@ window#waybar {
 #custom-power,
 #custom-spotify,
 #custom-notification,
+#custom-gpu,
 #cpu,
 #tray,
 #memory,
@@ -74,6 +75,10 @@ window#waybar {
 
 window#waybar.empty #window {
   background-color: transparent;
+}
+
+#custom-gpu {
+	color: #bff38e;
 }
 
 #cpu {
