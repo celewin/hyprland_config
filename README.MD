@@ -1,8 +1,14 @@
 # Hyprland config
 
+Install with yadm:
+```bash
+yadm clone https://github.com/celewin/hyprland_config.git
+yadm checkout --force
+```
+
 Depencies:
 ```bash
-paru -S rofi swww nwg-look google-chrome grim slurp thunar resources spotify steam discord hyprsunset breeze visual-studio-code-bin chezmoi ttf-firacode-nerd
+paru -S rofi swww nwg-look google-chrome grim slurp thunar resources spotify steam discord hyprsunset breeze visual-studio-code-bin ttf-firacode-nerd wlogout
 ```
 
 - rofi = dmenu
