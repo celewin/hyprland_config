@@ -1,13 +1,16 @@
 [Added Associations]
-image/png=imv-6.desktop;imv-5.desktop;imv-4.desktop;imv-3.desktop;imv-2.desktop;
+image/png=imv-6.desktop;imv-5.desktop;imv-4.desktop;imv-3.desktop;imv-2.desktop;org.nomacs.ImageLounge.desktop;
+image/jpeg=userapp-feh --theme default-6N2WG3.desktop;feh.desktop;userapp-feh -g 640x360 --scale-down-IRQKG3.desktop;org.nomacs.ImageLounge.desktop;
+inode/directory=userapp-feh --theme default-6N2WG3.desktop;
+image/webp=org.nomacs.ImageLounge.desktop;
 
 [Default Applications]
 image/bmp=imv.desktop
 image/gif=imv.desktop
-image/jpeg=imv.desktop
-image/png=imv-6.desktop;
+image/jpeg=org.nomacs.ImageLounge.desktop
+image/png=org.nomacs.ImageLounge.desktop
 image/tiff=imv.desktop
-image/webp=imv.desktop
+image/webp=org.nomacs.ImageLounge.desktop
 text/html=google-chrome.desktop
 x-scheme-handler/about=google-chrome.desktop
 x-scheme-handler/http=google-chrome.desktop
